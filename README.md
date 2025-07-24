@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=2%2B+Years+DevOps+Engineering;40%25+Faster+Deployments+%7C+60%25+Better+Testing;Terraform+%7C+AWS+%7C+GitLab+CI%2FCD;Building+Infrastructure+Poetry" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ghassenkhalfallah-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ghassenkhalfallah)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge&logo=github)](https://portfolio.ghassen.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge&logo=github)](https://gassenkalfallah.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-KhalfallahGhassen2%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:KhalfallahGhassen2@gmail.com)
 
 </div>
