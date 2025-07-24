@@ -170,11 +170,6 @@ work_style:
   - Performance monitoring obsessed
   - Documentation and knowledge sharing advocate
 
-availability:
-  location: "Tunisia (Open to relocation)"
-  preferences: "Remote/Hybrid roles across Europe"
-  opportunities: "Contract or Full-time positions"
-  timeline: "Available for immediate start"
 ```
 
 ---
@@ -279,9 +274,7 @@ I believe in giving back to the community that has helped me grow:
 ## 📝 **Latest Blog Posts & Articles**
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Zero-Downtime Deployment Pipelines with GitLab CI](https://dev.to/ghassenkhalfallah)
-- [Terraform Best Practices for Production Infrastructure](https://medium.com/@ghassenkhalfallah)
-- [Docker Optimization Techniques for CI/CD Pipelines](https://hashnode.com/@ghassenkhalfallah)
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -290,7 +283,6 @@ I believe in giving back to the community that has helped me grow:
 
 ### 💭 *"Infrastructure should be invisible. Delivery should be instant. Pipelines should be poetry."*
 
-![Profile Views](https://komarev.com/ghreadme?username=GassenKalfallah&color=blueviolet&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/GassenKalfallah?style=for-the-badge&color=blue)](https://github.com/GassenKalfallah?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/GassenKalfallah?style=for-the-badge&color=yellow)](https://github.com/GassenKalfallah?tab=repositories)
 
