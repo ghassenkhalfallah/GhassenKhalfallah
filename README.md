@@ -357,16 +357,6 @@ relocation: "Open to exceptional opportunities"
 
 </div>
 
----
-
-## 🤝 **Open Source Contributions**
-
-I believe in giving back to the community that has helped me grow:
-
-- 🔧 Contributing to Terraform provider improvements
-- 📚 Writing technical guides and tutorials
-- 🛠️ Maintaining automation tools and scripts
-- 💡 Sharing DevOps best practices and lessons learned
 
 ---
 
@@ -384,7 +374,6 @@ I believe in giving back to the community that has helped me grow:
 
 [![GitHub followers](https://img.shields.io/github/followers/GassenKalfallah?style=for-the-badge&color=blue)](https://github.com/GassenKalfallah?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/GassenKalfallah?style=for-the-badge&color=yellow)](https://github.com/GassenKalfallah?tab=repositories)
-![Profile Views](https://komarev.com/ghreadme?username=GassenKalfallah&color=blueviolet&style=for-the-badge)
 
 **⭐ If you like my work, consider giving my repositories a star!**
 
