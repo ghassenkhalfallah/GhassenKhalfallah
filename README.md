@@ -85,7 +85,7 @@
 - 📊 **Impact**: 99.2% time reduction (2+ hours → <1 minute)
 - 🛠️ **Tech Stack**: Docker, GitLab CI/CD, Python, Shell Scripting, Artifactory
 - 🏅 **Achievement**: Enabled daily releases for critical payment terminal software
-- 📝 **Note**: *Proprietary enterprise solution - architecture patterns available in [DevOps Automation Toolkit](https://github.com/GassenKalfallah/devops-automation-toolkit)*
+- 📝 **Note**: *Proprietary enterprise solution* 
 
 ### ☁️ Payment Systems Infrastructure Migration
 > **Zero-downtime cloud migration for critical payment systems** | *Enterprise/Private*
@@ -94,7 +94,7 @@
 - 📊 **Result**: Seamless business continuity during critical infrastructure transition
 - 🛠️ **Tech Stack**: Docker, GitLab CI/CD, Infrastructure Automation, Risk Mitigation
 - 🏅 **Achievement**: Successfully supported mission-critical payment system migration
-- 📝 **Note**: *Client-confidential project - generic migration patterns in [Cloud Migration Templates](https://github.com/GassenKalfallah/cloud-migration-templates)*
+- 📝 **Note**: *Client-confidential project*
 
 ### 🧪 Automated Testing Framework for Embedded Systems
 > **End-to-end testing infrastructure for payment terminals** | *Enterprise/Private*
@@ -103,27 +103,20 @@
 - 📊 **Impact**: 60% improvement in testing coverage, parallel execution capabilities
 - 🛠️ **Tech Stack**: Python, GitLab CI, Xray/Jira integration, Custom test runners
 - 🏅 **Outcome**: Enabled continuous testing with automated result reporting
-- 📝 **Note**: *Proprietary testing framework - open-source alternatives in [Testing Automation Lab](https://github.com/GassenKalfallah/testing-automation-lab)*
+- 📝 **Note**: *Proprietary testing framework*
 
 ---
 
 ### 🌟 **Open Source & Personal Projects**
 
-### ☁️ [AWS Infrastructure Templates](https://github.com/GassenKalfallah/aws-infrastructure-templates)
+### ☁️ [AWS Infrastructure Templates](https://github.com/GassenKalfallah/cloud-devops-migration-ghassen)
 > **Production-ready Terraform modules for scalable cloud deployments**
 - 🎯 **Purpose**: Reusable infrastructure patterns based on enterprise experience
 - ⚡ **Features**: Multi-environment setup, security hardening, cost optimization
 - 🛠️ **Tech Stack**: Terraform, AWS (EKS, EC2, VPC), GitLab CI
 - 🏅 **Value**: Accelerated infrastructure provisioning for startups and enterprises
 
-### 🔄 [DevOps Automation Toolkit](https://github.com/GassenKalfallah/devops-automation-toolkit)
-> **Collection of production-tested automation scripts and CI/CD templates**
-- 🎯 **Goal**: Share battle-tested DevOps patterns and best practices
-- ⚡ **Content**: Pipeline templates, Docker optimizations, monitoring setups
-- 🛠️ **Tech Stack**: Python, Shell, Docker, GitLab CI, Various cloud providers
-- 🏅 **Impact**: Helping developers implement enterprise-grade DevOps practices
-
-### 🛡️ [Disaster Recovery Patterns](https://github.com/GassenKalfallah/disaster-recovery-patterns)
+### 🛡️ [Disaster Recovery Patterns](https://github.com/GassenKalfallah/AKS-Multi-Cluster-Backup-Restore-with-Velero-DevOps-Project)
 > **Kubernetes backup and recovery solutions with Velero**
 - 🎯 **Mission**: Demonstrate bulletproof backup strategies for production systems
 - ⚡ **Features**: Cross-cluster backup, automated restore testing, compliance reporting
