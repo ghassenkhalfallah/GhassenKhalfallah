@@ -76,39 +76,59 @@
 
 ---
 
-## 🏆 **Featured Projects**
+## 🏆 **Featured Projects & Professional Work**
 
-### 🔥 [Terminal Packager Automation](https://github.com/GassenKalfallah/terminal-packager)
-> **Revolutionary TPE packaging system that transformed hours into seconds**
+### 🔥 Terminal Packager Automation System
+> **Revolutionary TPE packaging system that transformed hours into seconds** | *Enterprise/Private*
 - 🎯 **Problem**: Complex TPE software consolidation taking hours per release
 - ⚡ **Solution**: Custom Docker-based automation pipeline with GitLab CI integration
 - 📊 **Impact**: 99.2% time reduction (2+ hours → <1 minute)
 - 🛠️ **Tech Stack**: Docker, GitLab CI/CD, Python, Shell Scripting, Artifactory
 - 🏅 **Achievement**: Enabled daily releases for critical payment terminal software
+- 📝 **Note**: *Proprietary enterprise solution - architecture patterns available in [DevOps Automation Toolkit](https://github.com/GassenKalfallah/devops-automation-toolkit)*
 
-### ☁️ [AWS Migration Pipeline](https://github.com/GassenKalfallah/aws-migration-terraform)
-> **Zero-downtime cloud migration for critical payment systems**
+### ☁️ Payment Systems Infrastructure Migration
+> **Zero-downtime cloud migration for critical payment systems** | *Enterprise/Private*
 - 🎯 **Challenge**: Migrate legacy payment infrastructure without service interruption
-- ⚡ **Solution**: Terraform IaC + GitLab CI/CD orchestration with blue-green deployment
-- 📊 **Result**: 50% faster provisioning, 100% uptime maintained during migration
-- 🛠️ **Tech Stack**: AWS (EKS, EC2, VPC), Terraform, GitLab CI, Docker
-- 🏅 **Achievement**: Successfully migrated business-critical systems serving millions of transactions
+- ⚡ **Solution**: Docker simulation environments + infrastructure orchestration
+- 📊 **Result**: Seamless business continuity during critical infrastructure transition
+- 🛠️ **Tech Stack**: Docker, GitLab CI/CD, Infrastructure Automation, Risk Mitigation
+- 🏅 **Achievement**: Successfully supported mission-critical payment system migration
+- 📝 **Note**: *Client-confidential project - generic migration patterns in [Cloud Migration Templates](https://github.com/GassenKalfallah/cloud-migration-templates)*
 
-### 🔄 [Multi-AKS Disaster Recovery](https://github.com/GassenKalfallah/aks-disaster-recovery)
-> **Bulletproof backup system with zero-data-loss guarantee**
-- 🎯 **Mission**: Ensure business continuity across Azure Kubernetes clusters
-- ⚡ **Innovation**: Velero + Terraform automation framework with cross-region replication
-- 📊 **Achievement**: Zero-data-loss recovery verified across multiple environments
-- 🛠️ **Tech Stack**: Azure AKS, Velero, Terraform, Azure Blob Storage, Kubernetes
-- 🏅 **Result**: Reduced RTO from hours to minutes, RPO to near-zero
-
-### 🧪 [End-to-End Testing Framework](https://github.com/GassenKalfallah/e2e-testing-framework)
-> **Automated testing infrastructure for embedded payment terminals**
+### 🧪 Automated Testing Framework for Embedded Systems
+> **End-to-end testing infrastructure for payment terminals** | *Enterprise/Private*
 - 🎯 **Challenge**: Manual testing bottlenecks slowing down release cycles
 - ⚡ **Solution**: Nightly automated pipelines with real hardware integration
 - 📊 **Impact**: 60% improvement in testing coverage, parallel execution capabilities
 - 🛠️ **Tech Stack**: Python, GitLab CI, Xray/Jira integration, Custom test runners
 - 🏅 **Outcome**: Enabled continuous testing with automated result reporting
+- 📝 **Note**: *Proprietary testing framework - open-source alternatives in [Testing Automation Lab](https://github.com/GassenKalfallah/testing-automation-lab)*
+
+---
+
+### 🌟 **Open Source & Personal Projects**
+
+### ☁️ [AWS Infrastructure Templates](https://github.com/GassenKalfallah/aws-infrastructure-templates)
+> **Production-ready Terraform modules for scalable cloud deployments**
+- 🎯 **Purpose**: Reusable infrastructure patterns based on enterprise experience
+- ⚡ **Features**: Multi-environment setup, security hardening, cost optimization
+- 🛠️ **Tech Stack**: Terraform, AWS (EKS, EC2, VPC), GitLab CI
+- 🏅 **Value**: Accelerated infrastructure provisioning for startups and enterprises
+
+### 🔄 [DevOps Automation Toolkit](https://github.com/GassenKalfallah/devops-automation-toolkit)
+> **Collection of production-tested automation scripts and CI/CD templates**
+- 🎯 **Goal**: Share battle-tested DevOps patterns and best practices
+- ⚡ **Content**: Pipeline templates, Docker optimizations, monitoring setups
+- 🛠️ **Tech Stack**: Python, Shell, Docker, GitLab CI, Various cloud providers
+- 🏅 **Impact**: Helping developers implement enterprise-grade DevOps practices
+
+### 🛡️ [Disaster Recovery Patterns](https://github.com/GassenKalfallah/disaster-recovery-patterns)
+> **Kubernetes backup and recovery solutions with Velero**
+- 🎯 **Mission**: Demonstrate bulletproof backup strategies for production systems
+- ⚡ **Features**: Cross-cluster backup, automated restore testing, compliance reporting
+- 🛠️ **Tech Stack**: Kubernetes, Velero, Terraform, Azure/AWS storage
+- 🏅 **Achievement**: Zero-data-loss recovery patterns for business-critical applications
 
 ---
 
