@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=2%2B+Years+DevOps+Engineering;40%25+Faster+Deployments+%7C+60%25+Better+Testing;Terraform+%7C+AWS+%7C+GitLab+CI%2FCD;Building+Infrastructure+Poetry" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ghassenkhalfallah-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ghassenkhalfallah)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge&logo=github)](https://gassenkalfallah.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge&logo=github)](https://ghassenkhalfallah.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-KhalfallahGhassen2%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:KhalfallahGhassen2@gmail.com)
 
 </div>
@@ -144,19 +144,19 @@
 
 <div align="center">
 
-[![Cloud DevOps Migration](https://github-readme-stats.vercel.app/api/pin/?username=GassenKalfallah&repo=cloud-devops-migration-ghassen&theme=tokyonight)](https://github.com/GassenKalfallah/cloud-devops-migration-ghassen)
-[![AKS Disaster Recovery](https://github-readme-stats.vercel.app/api/pin/?username=GassenKalfallah&repo=AKS-Multi-Cluster-Backup-Restore-with-Velero-DevOps-Project&theme=tokyonight)](https://github.com/GassenKalfallah/AKS-Multi-Cluster-Backup-Restore-with-Velero-DevOps-Project)
+[![Cloud DevOps Migration](https://github-readme-stats.vercel.app/api/pin/?username=ghassenkhalfallah&repo=cloud-devops-migration-ghassen&theme=tokyonight)](https://github.com/ghassenkhalfallah/cloud-devops-migration-ghassen)
+[![AKS Disaster Recovery](https://github-readme-stats.vercel.app/api/pin/?username=ghassenkhalfallah&repo=AKS-Multi-Cluster-Backup-Restore-with-Velero-DevOps-Project&theme=tokyonight)](https://github.com/ghassenkhalfallah/AKS-Multi-Cluster-Backup-Restore-with-Velero-DevOps-Project)
 
 </div>
 
-### ☁️ [AWS Infrastructure Templates](https://github.com/GassenKalfallah/cloud-devops-migration-ghassen)
+### ☁️ [AWS Infrastructure Templates](https://github.com/ghassenkhalfallah/cloud-devops-migration-ghassen)
 > **Production-ready Terraform modules for scalable cloud deployments**
 - 🎯 **Purpose**: Reusable infrastructure patterns based on enterprise experience
 - ⚡ **Features**: Multi-environment setup, security hardening, cost optimization
 - 🛠️ **Tech Stack**: Terraform, AWS (EKS, EC2, VPC), GitLab CI
 - 🏅 **Value**: Accelerated infrastructure provisioning for startups and enterprises
 
-### 🛡️ [Disaster Recovery Patterns](https://github.com/GassenKalfallah/AKS-Multi-Cluster-Backup-Restore-with-Velero-DevOps-Project)
+### 🛡️ [Disaster Recovery Patterns](https://github.com/ghassenkhalfallah/AKS-Multi-Cluster-Backup-Restore-with-Velero-DevOps-Project)
 > **Kubernetes backup and recovery solutions with Velero**
 - 🎯 **Mission**: Demonstrate bulletproof backup strategies for production systems
 - ⚡ **Features**: Cross-cluster backup, automated restore testing, compliance reporting
@@ -169,14 +169,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GassenKalfallah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GassenKalfallah&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghassenkhalfallah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghassenkhalfallah&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GassenKalfallah&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ghassenkhalfallah&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
@@ -184,7 +184,7 @@
 
 <div align="center">
 
-[![Ghassen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GassenKalfallah&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ghassen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ghassenkhalfallah&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -339,7 +339,7 @@ career_trajectory:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghassenkhalfallah)
 [![Email](https://img.shields.io/badge/Email-Quick_Response-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:KhalfallahGhassen2@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-green?style=for-the-badge&logo=github&logoColor=white)](https://gassenkalfallah.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-green?style=for-the-badge&logo=github&logoColor=white)](https://ghassenkhalfallah.github.io/portfolio/)
 [![Phone](https://img.shields.io/badge/Phone-%2B216_94_615_090-orange?style=for-the-badge&logo=phone&logoColor=white)](tel:+21694615090)
 
 ### 🌍 **Current Status**
@@ -372,8 +372,8 @@ relocation: "Open to exceptional opportunities"
 
 ### 💭 *"Infrastructure should be invisible. Delivery should be instant. Pipelines should be poetry."*
 
-[![GitHub followers](https://img.shields.io/github/followers/GassenKalfallah?style=for-the-badge&color=blue)](https://github.com/GassenKalfallah?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/GassenKalfallah?style=for-the-badge&color=yellow)](https://github.com/GassenKalfallah?tab=repositories)
+[![GitHub followers](https://img.shields.io/github/followers/ghassenkhalfallah?style=for-the-badge&color=blue)](https://github.com/ghassenkhalfallah?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/ghassenkhalfallah?style=for-the-badge&color=yellow)](https://github.com/ghassenkhalfallah?tab=repositories)
 
 **⭐ If you like my work, consider giving my repositories a star!**
 
