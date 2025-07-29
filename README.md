@@ -345,12 +345,6 @@ career_trajectory:
 ### 🌍 **Current Status**
 ```yaml
 availability: "ACTIVELY SEEKING OPPORTUNITIES"
-preferences: 
-  - "Remote/Hybrid roles across Europe"
-  - "DevOps/Platform/Cloud Engineering positions"
-  - "Mid to Senior level (2-5 years experience range)"
-timeline: "Available for immediate start"
-relocation: "Open to exceptional opportunities"
 ```
 
 *📧 Professional inquiries guaranteed response within 24 hours*
